@@ -1,0 +1,80 @@
+*::after{
+    background:rgba(0,0,0,0);
+}
+.navbar a{
+    color:#eee;
+    text-decoration: none;
+}
+body{
+    height:1200px;
+    position: relative;
+    overflow-y: scroll;
+}
+.nav::after{
+    background-color:black;
+}
+.navbar{
+    background:#212121;
+    transition: all .3s;
+}
+.touming{
+    background:rgba(0,0,0,0);
+}
+
+.navbar{
+    line-height:50px;
+}
+.navbar-link{
+    text-decoration-line: none;
+}
+
+.navbar-brand{
+    lineight:50px;
+}
+.navbar > .container-fluid{
+    padding:0 50px;
+}
+nav a{
+    padding:0 25px;
+}
+.jumbotron{
+    background-image:url(./gaodashang.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    margin:0px;
+    height:722px;
+}
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+ }
+ .row{
+
+ }
+ .container-fluid > .row{
+     line-height:30px;
+     font-size:1.2em;
+ }
+ul > .active{
+    background:rgba(55,55,55,1);
+ }
+ #luxian > .row > .col-md-12{
+    background-image:url(./luxian.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    margin:0px;
+    height:300px;
+ }
+ .col-md-6{
+     padding:0 50px;
+ }
+ .left.col-md-6{
+    background-color:#6495ED;
+}
+footer{
+    background:#212121;
+    text-align:center;
+    color:grey;
+}

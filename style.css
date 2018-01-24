@@ -1,6 +1,3 @@
-*::after{
-    background:rgba(0,0,0,0);
-}
 .navbar a{
     color:#eee;
     text-decoration: none;
@@ -43,6 +40,7 @@ nav a{
     background-size:100% 100%;
     margin:0px;
     height:722px;
+    color:#ddd
 }
 .icon {
     width: 1em; height: 1em;

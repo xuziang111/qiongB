@@ -78,3 +78,23 @@ footer{
     text-align:center;
     color:grey;
 }
+#weixin{
+    height:300px;
+    text-align:center;
+}
+#weixin > div > div > div{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:200px;
+}
+#weibo{
+    height:300px;
+    text-align:center;
+}
+#weibo > div > div > div{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:200px;
+}
